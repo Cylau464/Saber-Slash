@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: af88b6022a101ab4bb5cdd5f9dbe3de0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _defaultSliceMaterial: {fileID: 2100000, guid: e4008f16356a44042826b39050bfc045, type: 2}
+  - _sparksParticlePrefab: {fileID: 798528202792872407, guid: 6d3187ad98510f7429d988755c958bf3, type: 3}
+  - _sliceParticlePrefab: {instanceID: 0}
+  - _noise: {instanceID: 0}
+  - _bloodPrefub: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

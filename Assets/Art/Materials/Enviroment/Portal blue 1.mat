@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Portal blue 1
+  m_Shader: {fileID: -6465566751694194690, guid: 2a9a524339cec6740a5d166de1ce996b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_3fb76301a34f4c9ab12a574a2098e434:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_e528da45112e463cb7930d0c710bcced_Texture_1:
+        m_Texture: {fileID: 2800000, guid: bff3b8aba121fcd4b99b9fdbc60694c4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_26db1d0148bf4499aed6e4abb4a6eaaa_Out_0:
+        m_Texture: {fileID: 2800000, guid: 9fd0803556af44591a2d3be1bd49a003, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_a347fe0fe14a473389ecdb0db3106f69_Out_0:
+        m_Texture: {fileID: 2800000, guid: 9fd0803556af44591a2d3be1bd49a003, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_0b030a14a4d54e429fda71131b79db1c: 25
+    - Vector1_0bd18f18fd8147b1bf41af898ebe6a02: -2
+    - Vector1_281289b885e2483b9b52229846c8d82c: 1
+    - Vector1_3b9eb75f1c824c6c8f72145c3b915d7a: 20
+    - Vector1_4191059750d24775a75d614d24c71340: 1
+    - Vector1_8f447011ca9c4ebf9bdb1dbd19f06730: 0.3
+    - _NoiseScale: 2
+    - _TwirlOffset: 0
+    - _TwirlSpeed: 0.3
+    - _TwirlStrength: 20
+    m_Colors:
+    - Color_10a39b2bc2054aa4a9711d03acc7856c: {r: 0.055459358, g: 1.1424627, b: 2.1185474, a: 1}
+  m_BuildTextureStacks: []

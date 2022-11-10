@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d162f5cf2de5141448f5f0afb5487448, type: 3}
+  m_Name: White ColorSchemePreset
+  m_EditorClassIdentifier: 
+  FogColor: {r: 0.8687535, g: 0.69018596, b: 1.1171654, a: 1}
+  LightColor: {r: 1, g: 0.8066038, b: 0.93553454, a: 1}
+  Skybox: {fileID: 2100000, guid: 7bd14c2548f2b864196b5bbee34c59ec, type: 2}

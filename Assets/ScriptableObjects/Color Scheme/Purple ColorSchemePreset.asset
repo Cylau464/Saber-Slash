@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d162f5cf2de5141448f5f0afb5487448, type: 3}
+  m_Name: Purple ColorSchemePreset
+  m_EditorClassIdentifier: 
+  FogColor: {r: 1.0766232, g: 0.67570496, b: 0.40091825, a: 1}
+  LightColor: {r: 0.6627451, g: 0.50980395, b: 1, a: 1}
+  Skybox: {fileID: 2100000, guid: b6292d5593638e6488f4851d880e55ce, type: 2}

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Platform Drawing
+  m_Shader: {fileID: -6465566751694194690, guid: b00c17bb9d7069643bd8f64fac8a71cc, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DrawTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 2800000, guid: 5f53ae34ef1e8b24eb9e880cb6583c24, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RenderTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SurfaceTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Triplanar_fd169b8dc8da4fe7b1013a460f3100de_Texture_1:
+        m_Texture: {fileID: 2800000, guid: edc2b3bfe412721409008df82ad98102, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_03614db88942465ba2221e522b64e4a3: 0
+    - Vector1_74b999cd361941ada5ce40ce774fa51e: 0.1
+    - Vector1_e1d22febcc384dcca3ead62e84a878ab: 0.5
+    - Vector1_ea25514a8d454e7d9509dbb04f9c4754: 1
+    - Vector1_f5a339a18bfb4b6392eff8f32694b11e: 0.5
+    - _OneMinus: -1
+    m_Colors:
+    - Color_7ffc7615cb2c4293a5229967138a841a: {r: 0.54509807, g: 0.65882355, b: 0.87058824, a: 1}
+    - _Color: {r: 0.54509807, g: 0.6588235, b: 0.8705882, a: 1}
+    - _EmissionColor: {r: 23.968628, g: 7.027451, b: 1.3803922, a: 1}
+  m_BuildTextureStacks: []

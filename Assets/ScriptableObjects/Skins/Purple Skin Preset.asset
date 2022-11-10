@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b76c6de9b9dd414684a446e3e2892d5, type: 3}
+  m_Name: Purple Skin Preset
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: be5cfb57797a53541bdcfb9d7d126575, type: 3}
+  BladeMaterial: {fileID: 2100000, guid: 8c4f994120a0b96428f810381e4185b2, type: 2}
+  TrailMaterial: {fileID: 2100000, guid: 43aa47ffe918e2f4baeb1e5edee9a10e, type: 2}
+  LightColor: {r: 0.8376963, g: 0, b: 1, a: 1}
+  Data:
+    m_AutoSave: 1
+    m_FileName: SkinsData3
+    m_Key: Data
+    m_Value:
+      Unlocked: 0
+      Picked: 0
+      UnlockProgress: 0
+      AvailableAfterLevel: 0
+  InitData:
+    m_AutoSave: 0
+    m_FileName: 
+    m_Key: Data
+    m_Value:
+      Unlocked: 0
+      Picked: 0
+      UnlockProgress: 0
+      AvailableAfterLevel: 0

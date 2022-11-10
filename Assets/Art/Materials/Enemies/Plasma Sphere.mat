@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Plasma Sphere
+  m_Shader: {fileID: -6465566751694194690, guid: 22051f51d030bab47a3895b7a529b775, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_a9518cb8c71d4ea2954833d11551726f:
+        m_Texture: {fileID: 2800000, guid: 1649d27cd3042df488f02a930c2150b2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_6975a2bd394f42bd814bae89e7f9b43f: 0
+    - Boolean_cf8e8a5ee6df403a902233aa52199398: 0
+    - Vector1_2979ff41c23f45a09fc84777bbb6aae7: 1.08
+    - Vector1_30f3fee4f7a840aaa2f253603f4c5252: 0.83
+    - Vector1_37db9c43e8bf4f0890c4d0b3e14f5a00: 0.05
+    - Vector1_521f0e5d85f7438998be74b02acccf58: 0.25
+    - Vector1_6920987eba2e440ab8b1a4ae1320d944: 0.1
+    - Vector1_76dc9acd59bd402fbf9328d445edcad1: 0.1
+    - Vector1_8164860b8d714312bc52e3b059a4b70b: 0.01
+    - _Alpha: 1
+    - _DissolveEnabled: 0
+    - _DissolveProgress: 0
+    m_Colors:
+    - Color_02131b7b978d4b108a0a5f519f175d72: {r: 23.968628, g: 11.168628, b: 2.0078433, a: 0}
+    - Color_30fb6fc1395f446982aaa358f1bca419: {r: 0.7075472, g: 0.7075472, b: 0.7075472, a: 0}
+    - Color_6d1a713605554a2db2dd0225b39823ff: {r: 2.012864, g: 0, b: 11.650212, a: 1}
+    - Color_88743a53103a494db3efd97a0b50665f: {r: 1, g: 1, b: 1, a: 0}
+    - Color_cfbc29d93e7f43119214f82bcda06af3: {r: 4.867144, g: 2.2679362, b: 0.40771887, a: 0}
+  m_BuildTextureStacks: []
